@@ -1,0 +1,43 @@
+\documentclass[a4paper,11pt,final]{article}
+% Pour une impression recto verso, utilisez plutôt ce documentclass :
+%\documentclass[a4paper,11pt,twoside,final]{article}
+
+\usepackage[english,francais]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[pdftex]{graphicx}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage[french]{varioref}
+\newcommand{\reportsubject}{JouRs 2014 (Journ\'ees de Recherches du PRIE)}
+\newcommand{\reporttitle}{R\'esum\'e}     % Titre
+\newcommand{\reportauthor}{Bruno \textsc{Voisin}} % Auteur
+%\newcommand{\reportsubject}{Stage de fin d'étude} % Sujet
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\setlength{\parskip}{1ex} % Espace entre les paragraphes
+
+\hypersetup{
+    pdftitle={\reporttitle},%
+    pdfauthor={\reportauthor},%
+    pdfsubject={\reportsubject},%
+    pdfkeywords={rapport} {vos} {mots} {clés}
+}
+
+\begin{document}
+  \include{title}
+  \cleardoublepage % Dans le cas du recto verso, ajoute une page blanche si besoin
+  \tableofcontents % Table des matières
+  \sloppy          % Justification moins stricte : des mots ne dépasseront pas des paragraphes
+  \cleardoublepage
+  \include{remerciements}
+  \cleardoublepage
+  \include{intro}
+  \cleardoublepage
+  \include{partie1}
+  \cleardoublepage
+  \include{partie2}
+  \cleardoublepage
+  \include{concl}
+  \cleardoublepage
+  \include{references}
+\end{document}

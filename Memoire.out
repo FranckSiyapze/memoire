@@ -1,0 +1,88 @@
+\BOOKMARK [0][-]{Doc-Start}{D\351dicace}{}% 1
+\BOOKMARK [0][-]{section*.1}{Remerciements}{}% 2
+\BOOKMARK [0][-]{section*.1}{Sommaire}{}% 3
+\BOOKMARK [0][-]{section*.2}{R\351sum\351}{}% 4
+\BOOKMARK [0][-]{section*.3}{Abstract}{}% 5
+\BOOKMARK [0][-]{section*.3}{Liste des sigles et abr\351viations}{}% 6
+\BOOKMARK [0][-]{section*.3}{Liste des tableaux}{}% 7
+\BOOKMARK [0][-]{section*.3}{Liste des figures}{}% 8
+\BOOKMARK [0][-]{section*.4}{Introduction}{}% 9
+\BOOKMARK [0][-]{chapter.1}{NOTION DE BASE SUR L\220OPTIMISATION.}{}% 10
+\BOOKMARK [1][-]{section.1.1}{En pr\351alable \340 l\220optimisation des processus }{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.1}{Qu\220est-ce qu\220un processus.}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.2}{Pourquoi les optimiser ?Ref21}{section.1.1}% 13
+\BOOKMARK [2][-]{subsection.1.1.3}{A quel moment faut-il le faire ?}{section.1.1}% 14
+\BOOKMARK [1][-]{section.1.2}{Les principes de base de l\220optimisation des processus}{chapter.1}% 15
+\BOOKMARK [2][-]{subsection.1.2.1}{Bien caract\351riser le p\351rim\350tre couvert par le processus}{section.1.2}% 16
+\BOOKMARK [2][-]{subsection.1.2.2}{Identifier les interfaces }{section.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.2.3}{Ne travailler que des processus-cl\351s ou processus critiques }{section.1.2}% 18
+\BOOKMARK [2][-]{subsection.1.2.4}{Privil\351gier une approche participative }{section.1.2}% 19
+\BOOKMARK [2][-]{subsection.1.2.5}{Garder de la souplesse dans la formalisation pour rester ouvert \340 l\220urgence }{section.1.2}% 20
+\BOOKMARK [1][-]{section.1.3}{Une d\351marche possible pour optimiser un processusRef11}{chapter.1}% 21
+\BOOKMARK [2][-]{subsection.1.3.1}{Cartographier les processus }{section.1.3}% 22
+\BOOKMARK [2][-]{subsection.1.3.2}{Choisir les processus-cl\351s}{section.1.3}% 23
+\BOOKMARK [2][-]{subsection.1.3.3}{Caract\351riser un processus }{section.1.3}% 24
+\BOOKMARK [2][-]{subsection.1.3.4}{D\351crire un processus }{section.1.3}% 25
+\BOOKMARK [2][-]{subsection.1.3.5}{Diagnostiquer un processus et son contexte pour d\351finir les objectifs d\220optimisation}{section.1.3}% 26
+\BOOKMARK [2][-]{subsection.1.3.6}{Choisir le degr\351 d\220optimisation : am\351liorer ou reconcevoir selon des objectifs et indicateurs de performance}{section.1.3}% 27
+\BOOKMARK [2][-]{subsection.1.3.7}{Optimiser le processus}{section.1.3}% 28
+\BOOKMARK [2][-]{subsection.1.3.8}{Mettre en \234uvre et piloter le nouveau processus}{section.1.3}% 29
+\BOOKMARK [0][-]{chapter.2}{ETUDE DE L\220EXISTANT.}{}% 30
+\BOOKMARK [1][-]{section.2.1}{\311tat de l\220art d\220une Marketplace .}{chapter.2}% 31
+\BOOKMARK [2][-]{subsection.2.1.1}{Qu\220est-ce qu\220une Marketplace.}{section.2.1}% 32
+\BOOKMARK [2][-]{subsection.2.1.2}{Avantages et inconv\351nients d\220une Marketplace }{section.2.1}% 33
+\BOOKMARK [1][-]{section.2.2}{Description de l'existant.}{chapter.2}% 34
+\BOOKMARK [2][-]{subsection.2.2.1}{Type de marketplace}{section.2.2}% 35
+\BOOKMARK [2][-]{subsection.2.2.2}{Pr\351sentation de l\220existant}{section.2.2}% 36
+\BOOKMARK [2][-]{subsection.2.2.3}{Critique de l'existant.}{section.2.2}% 37
+\BOOKMARK [1][-]{section.2.3}{Cahier de charge .}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.3.1}{Definition du projet.}{section.2.3}% 39
+\BOOKMARK [2][-]{subsection.2.3.2}{Pr\351sentation des concurrents .}{section.2.3}% 40
+\BOOKMARK [2][-]{subsection.2.3.3}{Caract\351ristiques de la solution voulue :}{section.2.3}% 41
+\BOOKMARK [2][-]{subsection.2.3.4}{Sp\351cification des besoins :}{section.2.3}% 42
+\BOOKMARK [2][-]{subsection.2.3.5}{Solutions envisageables.}{section.2.3}% 43
+\BOOKMARK [2][-]{subsection.2.3.6}{Co\373ts de r\351alisation par la m\351thode COCOMO.}{section.2.3}% 44
+\BOOKMARK [2][-]{subsection.2.3.7}{Planification}{section.2.3}% 45
+\BOOKMARK [2][-]{subsection.2.3.8}{Contraintes du projet}{section.2.3}% 46
+\BOOKMARK [1][-]{section.2.4}{M\351thodologie de conduite de projet.}{chapter.2}% 47
+\BOOKMARK [2][-]{subsection.2.4.1}{Mod\350le de cycle de vie en cascadeRef13}{section.2.4}% 48
+\BOOKMARK [2][-]{subsection.2.4.2}{Mod\350le de cycle de vie en VRef13}{section.2.4}% 49
+\BOOKMARK [2][-]{subsection.2.4.3}{Mod\350le de cycle de vie en spirale Ref13}{section.2.4}% 50
+\BOOKMARK [2][-]{subsection.2.4.4}{La m\351thodologie agile Ref1}{section.2.4}% 51
+\BOOKMARK [2][-]{subsection.2.4.5}{Pourquoi la m\351thodologie agile}{section.2.4}% 52
+\BOOKMARK [0][-]{chapter.3}{Analyse et Conception.}{}% 53
+\BOOKMARK [1][-]{section.3.1}{Pr\351sentationd de la m\351thodologie.}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.1.1}{M\351thodologie adopt\351e Scrum}{section.3.1}% 55
+\BOOKMARK [1][-]{section.3.2}{Mod\350le.}{chapter.3}% 56
+\BOOKMARK [2][-]{subsection.3.2.1}{Choix du langage de mod\351lisation.Ref02}{section.3.2}% 57
+\BOOKMARK [1][-]{section.3.3}{Concept d'UML}{chapter.3}% 58
+\BOOKMARK [2][-]{subsection.3.3.1}{D\351finition}{section.3.3}% 59
+\BOOKMARK [2][-]{subsection.3.3.2}{Unit\351}{section.3.3}% 60
+\BOOKMARK [2][-]{subsection.3.3.3}{Pr\351sentation de quelques diagrammes UML}{section.3.3}% 61
+\BOOKMARK [1][-]{section.3.4}{Analyse et Mod\351lisation}{chapter.3}% 62
+\BOOKMARK [2][-]{subsection.3.4.1}{Les acteurs syst\350me}{section.3.4}% 63
+\BOOKMARK [2][-]{subsection.3.4.2}{Les cas d'utilisation}{section.3.4}% 64
+\BOOKMARK [2][-]{subsection.3.4.3}{Mod\351lisations Conceptuelles}{section.3.4}% 65
+\BOOKMARK [1][-]{section.3.5}{Architecture g\351n\351rale de l'application}{chapter.3}% 66
+\BOOKMARK [2][-]{subsection.3.5.1}{D\351finition}{section.3.5}% 67
+\BOOKMARK [2][-]{subsection.3.5.2}{Architecture de notre syst\350me}{section.3.5}% 68
+\BOOKMARK [0][-]{chapter.4}{R\351sultats et Discussion}{}% 69
+\BOOKMARK [1][-]{section.4.1}{Outils, langage et m\351thodes d\220impl\351mentations.}{chapter.4}% 70
+\BOOKMARK [2][-]{subsection.4.1.1}{Outils d'impl\351mentation.}{section.4.1}% 71
+\BOOKMARK [2][-]{subsection.4.1.2}{Langages de programmation utilis\351s.}{section.4.1}% 72
+\BOOKMARK [1][-]{section.4.2}{Pr\351sentation de la solution r\351alis\351e}{chapter.4}% 73
+\BOOKMARK [2][-]{subsection.4.2.1}{Architecture MVC de l'application.}{section.4.2}% 74
+\BOOKMARK [2][-]{subsection.4.2.2}{Avantage du MVC.}{section.4.2}% 75
+\BOOKMARK [2][-]{subsection.4.2.3}{Page du tableau de bord.}{section.4.2}% 76
+\BOOKMARK [2][-]{subsection.4.2.4}{Page de gestion des sliders.}{section.4.2}% 77
+\BOOKMARK [2][-]{subsection.4.2.5}{Page de gestion des push notifications.}{section.4.2}% 78
+\BOOKMARK [2][-]{subsection.4.2.6}{Page de gestion des bloc cat\351gorie et bloc produit .}{section.4.2}% 79
+\BOOKMARK [2][-]{subsection.4.2.7}{Co\373t de mise en oeuvre de la solution .}{section.4.2}% 80
+\BOOKMARK [1][-]{section.4.3}{Discussion de la solution et bilan.}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.3.1}{Evalutation technique .}{section.4.3}% 82
+\BOOKMARK [2][-]{subsection.4.3.2}{Respect du cahier des charges.}{section.4.3}% 83
+\BOOKMARK [2][-]{subsection.4.3.3}{Bilan.}{section.4.3}% 84
+\BOOKMARK [0][-]{section*.5}{Conclusion}{}% 85
+\BOOKMARK [0][-]{section*.5}{Bibliographie}{}% 86
+\BOOKMARK [0][-]{chapter.1}{Table des mati\350res.}{}% 87
+\BOOKMARK [0][-]{chapter.1}{Table des mati\350res}{}% 88

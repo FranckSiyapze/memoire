@@ -1,0 +1,89 @@
+\contentsline {chapter}{Dédicace}{i}{Doc-Start}%
+\babel@toc {french}{}
+\contentsline {chapter}{Remerciements}{ii}{section*.1}%
+\contentsline {chapter}{Sommaire}{iv}{section*.1}%
+\contentsline {chapter}{Résumé}{v}{section*.2}%
+\contentsline {chapter}{Abstract}{vi}{section*.3}%
+\contentsline {chapter}{Liste des sigles et abréviations}{vii}{section*.3}%
+\contentsline {chapter}{Liste des tableaux}{viii}{section*.3}%
+\contentsline {chapter}{Liste des figures}{ix}{section*.3}%
+\contentsline {chapter}{Introduction}{1}{section*.4}%
+\contentsline {chapter}{\chapternumberline {1}NOTION DE BASE SUR L’OPTIMISATION.}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}En préalable à l’optimisation des processus }{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Qu’est-ce qu’un processus.}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Pourquoi les optimiser ?\cite {Ref21}}{2}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}A quel moment faut-il le faire ?}{3}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Les principes de base de l’optimisation des processus}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Bien caractériser le périmètre couvert par le processus}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Identifier les interfaces }{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Ne travailler que des processus-clés ou processus critiques }{4}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Privilégier une approche participative }{4}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Garder de la souplesse dans la formalisation pour rester ouvert à l’urgence }{5}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Une démarche possible pour optimiser un processus\cite {Ref11}}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Cartographier les processus }{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Choisir les processus-clés}{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Caractériser un processus }{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Décrire un processus }{7}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Diagnostiquer un processus et son contexte pour définir les objectifs d’optimisation}{8}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Choisir le degré d’optimisation : améliorer ou reconcevoir selon des objectifs et indicateurs de performance}{8}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Optimiser le processus}{9}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}Mettre en œuvre et piloter le nouveau processus}{10}{subsection.1.3.8}%
+\contentsline {chapter}{\chapternumberline {2}ETUDE DE L’EXISTANT.}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}État de l’art d’une Marketplace .}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Qu’est-ce qu’une Marketplace.}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Avantages et inconvénients d’une Marketplace }{14}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Description de l'existant.}{15}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Type de marketplace}{15}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Présentation de l’existant}{16}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Critique de l'existant.}{17}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Cahier de charge .}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Definition du projet.}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Présentation des concurrents .}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Caractéristiques de la solution voulue :}{21}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Spécification des besoins :}{21}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Solutions envisageables.}{23}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Coûts de réalisation par la méthode COCOMO.}{24}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Planification}{27}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Contraintes du projet}{28}{subsection.2.3.8}%
+\contentsline {section}{\numberline {2.4}Méthodologie de conduite de projet.}{28}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Modèle de cycle de vie en cascade\cite {Ref13}}{28}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Modèle de cycle de vie en V\cite {Ref13}}{29}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Modèle de cycle de vie en spirale \cite {Ref13}}{30}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}La méthodologie agile \cite {Ref1}}{31}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Pourquoi la méthodologie agile}{32}{subsection.2.4.5}%
+\contentsline {chapter}{\chapternumberline {3}Analyse et Conception.}{34}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Présentationd de la méthodologie.}{34}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Méthodologie adoptée Scrum}{34}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Modèle.}{37}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Choix du langage de modélisation.\cite {Ref02}}{38}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Concept d'UML}{39}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Définition}{39}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Unité}{39}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Présentation de quelques diagrammes UML}{39}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Analyse et Modélisation}{42}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Les acteurs système}{42}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Les cas d'utilisation}{42}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Modélisations Conceptuelles}{46}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Architecture générale de l'application}{52}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Définition}{52}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Architecture de notre système}{54}{subsection.3.5.2}%
+\contentsline {chapter}{\chapternumberline {4}Résultats et Discussion}{56}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Outils, langage et méthodes d’implémentations.}{56}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Outils d'implémentation.}{56}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Langages de programmation utilisés.}{57}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Présentation de la solution réalisée}{58}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Architecture MVC de l'application.}{58}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Avantage du MVC.}{60}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Page du tableau de bord.}{60}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Page de gestion des sliders.}{61}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Page de gestion des push notifications.}{62}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Page de gestion des bloc catégorie et bloc produit .}{66}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Coût de mise en oeuvre de la solution .}{68}{subsection.4.2.7}%
+\contentsline {section}{\numberline {4.3}Discussion de la solution et bilan.}{69}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Evalutation technique .}{69}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Respect du cahier des charges.}{70}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Bilan.}{73}{subsection.4.3.3}%
+\contentsline {chapter}{Conclusion}{75}{section*.5}%
+\contentsline {chapter}{Bibliographie}{1}{section*.5}%
+\contentsline {chapter}{\chapternumberline {A}Table des matières.}{AA}{chapter.1}%
+\contentsline {chapter}{Table des matières}{AA}{chapter.1}%

@@ -1,0 +1,68 @@
+\BOOKMARK [0][-]{Doc-Start}{D\351dicace}{}% 1
+\BOOKMARK [0][-]{section*.1}{Remerciements}{}% 2
+\BOOKMARK [0][-]{section*.1}{Sommaire}{}% 3
+\BOOKMARK [0][-]{section*.1}{Glossaire}{}% 4
+\BOOKMARK [0][-]{section*.1}{Liste des tableaux}{}% 5
+\BOOKMARK [0][-]{section*.1}{Liste des figures}{}% 6
+\BOOKMARK [0][-]{section*.2}{R\351sum\351}{}% 7
+\BOOKMARK [0][-]{section*.3}{Abstract}{}% 8
+\BOOKMARK [0][-]{section*.4}{Introduction}{}% 9
+\BOOKMARK [0][-]{chapter.1}{Revue de la litt\351rature.}{}% 10
+\BOOKMARK [1][-]{section.1.1}{Contexte}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.2}{C'est quoi la gestion des sinistres ?}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.3}{Moyens de gestion des sinistres.}{chapter.1}% 13
+\BOOKMARK [2][-]{subsection.1.3.1}{les obligations de l'assur\351 en cas de sinistre.Ref11}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.2}{L'expertise d'assurance en cas de sinistre.Ref12}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.3}{Les obligations de l'assureur en cas de sinistre.}{section.1.3}% 16
+\BOOKMARK [2][-]{subsection.1.3.4}{La facult\351 de r\351siliation de l'assureur apr\350s sinistre.}{section.1.3}% 17
+\BOOKMARK [1][-]{section.1.4}{Probl\351matique.}{chapter.1}% 18
+\BOOKMARK [1][-]{section.1.5}{Motivation et choix de la m\351thodologie.}{chapter.1}% 19
+\BOOKMARK [2][-]{subsection.1.5.1}{Motivation.}{section.1.5}% 20
+\BOOKMARK [2][-]{subsection.1.5.2}{M\351thode de conduite de projet}{section.1.5}% 21
+\BOOKMARK [2][-]{subsection.1.5.3}{Pourquoi la m\351thode Agile?}{section.1.5}% 22
+\BOOKMARK [0][-]{chapter.2}{M\351thodologie, mod\350les et outils.}{}% 23
+\BOOKMARK [1][-]{section.2.1}{Pr\351sentation de la M\351thodologie.}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.1.1}{M\351thodologie adopt\351e Scrum.}{section.2.1}% 25
+\BOOKMARK [2][-]{subsection.2.1.2}{Pr\351sentation de Scrum.}{section.2.1}% 26
+\BOOKMARK [1][-]{section.2.2}{Mod\350le.}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.1}{Choix du langage de mod\351lisation.Ref13}{section.2.2}% 28
+\BOOKMARK [1][-]{section.2.3}{Outils.}{chapter.2}% 29
+\BOOKMARK [2][-]{subsection.2.3.1}{Power AMC.}{section.2.3}% 30
+\BOOKMARK [2][-]{subsection.2.3.2}{MySQL.}{section.2.3}% 31
+\BOOKMARK [2][-]{subsection.2.3.3}{Odoo.}{section.2.3}% 32
+\BOOKMARK [2][-]{subsection.2.3.4}{Visual Studio Code.}{section.2.3}% 33
+\BOOKMARK [2][-]{subsection.2.3.5}{PHP.}{section.2.3}% 34
+\BOOKMARK [1][-]{section.2.4}{Architecture logicielle du syst\350me.}{chapter.2}% 35
+\BOOKMARK [0][-]{chapter.3}{Simulation et analyse.}{}% 36
+\BOOKMARK [1][-]{section.3.1}{Simulation.}{chapter.3}% 37
+\BOOKMARK [2][-]{subsection.3.1.1}{Contexte du m\351moire.}{section.3.1}% 38
+\BOOKMARK [2][-]{subsection.3.1.2}{Travail demand\351.}{section.3.1}% 39
+\BOOKMARK [2][-]{subsection.3.1.3}{P\351rim\350tre d'\351tude.}{section.3.1}% 40
+\BOOKMARK [1][-]{section.3.2}{Analyse.}{chapter.3}% 41
+\BOOKMARK [2][-]{subsection.3.2.1}{Travail pr\351liminaire: Sprint 0.}{section.3.2}% 42
+\BOOKMARK [2][-]{subsection.3.2.2}{Vision du projet.}{section.3.2}% 43
+\BOOKMARK [2][-]{subsection.3.2.3}{Les objectifs.}{section.3.2}% 44
+\BOOKMARK [2][-]{subsection.3.2.4}{Identification des besoin.}{section.3.2}% 45
+\BOOKMARK [2][-]{subsection.3.2.5}{Les contraintes li\351es au projet.}{section.3.2}% 46
+\BOOKMARK [2][-]{subsection.3.2.6}{Les risques pouvant entrain\351s l'\351chec du projet}{section.3.2}% 47
+\BOOKMARK [2][-]{subsection.3.2.7}{Les ressources humaines}{section.3.2}% 48
+\BOOKMARK [1][-]{section.3.3}{Mod\351lisation du syst\350me}{chapter.3}% 49
+\BOOKMARK [2][-]{subsection.3.3.1}{Sprint 1}{section.3.3}% 50
+\BOOKMARK [2][-]{subsection.3.3.2}{Sprint 2}{section.3.3}% 51
+\BOOKMARK [2][-]{subsection.3.3.3}{Sprint 3}{section.3.3}% 52
+\BOOKMARK [2][-]{subsection.3.3.4}{Sprint 4}{section.3.3}% 53
+\BOOKMARK [2][-]{subsection.3.3.5}{Diagramme de composant.}{section.3.3}% 54
+\BOOKMARK [2][-]{subsection.3.3.6}{Diagramme de d\351ploiement.}{section.3.3}% 55
+\BOOKMARK [0][-]{chapter.4}{R\351sultats et interpr\351tation}{}% 56
+\BOOKMARK [1][-]{section.4.1}{Pr\351sentation des diff\351rentes release.}{chapter.4}% 57
+\BOOKMARK [2][-]{subsection.4.1.1}{Premier release.}{section.4.1}% 58
+\BOOKMARK [2][-]{subsection.4.1.2}{Deuxi\350me release.}{section.4.1}% 59
+\BOOKMARK [2][-]{subsection.4.1.3}{Troisi\350me release}{section.4.1}% 60
+\BOOKMARK [2][-]{subsection.4.1.4}{Quatri\350me release}{section.4.1}% 61
+\BOOKMARK [1][-]{section.4.2}{Estimation de co\373ts et difficult\351s rencontr\351es.}{chapter.4}% 62
+\BOOKMARK [2][-]{subsection.4.2.1}{Estimation des co\373ts.}{section.4.2}% 63
+\BOOKMARK [2][-]{subsection.4.2.2}{Difficult\351s rencontr\351es.}{section.4.2}% 64
+\BOOKMARK [0][-]{section*.5}{Conclusion}{}% 65
+\BOOKMARK [0][-]{section*.5}{Bibliographie}{}% 66
+\BOOKMARK [0][-]{chapter.1}{Table des mati\350res.}{}% 67
+\BOOKMARK [0][-]{chapter.1}{Table des mati\350res}{}% 68

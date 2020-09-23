@@ -1,0 +1,69 @@
+\contentsline {chapter}{D\IeC {\'e}dicace}{i}{Doc-Start}% 
+\babel@toc {french}{}
+\contentsline {chapter}{Remerciements}{ii}{section*.1}% 
+\contentsline {chapter}{Sommaire}{iv}{section*.1}% 
+\contentsline {chapter}{Glossaire}{v}{section*.1}% 
+\contentsline {chapter}{Liste des tableaux}{vi}{section*.1}% 
+\contentsline {chapter}{Liste des figures}{vii}{section*.1}% 
+\contentsline {chapter}{R\IeC {\'e}sum\IeC {\'e}}{x}{section*.2}% 
+\contentsline {chapter}{Abstract}{xi}{section*.3}% 
+\contentsline {chapter}{Introduction}{1}{section*.4}% 
+\contentsline {chapter}{\chapternumberline {1}Revue de la litt\IeC {\'e}rature.}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Contexte}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}C'est quoi la gestion des sinistres ?}{2}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Moyens de gestion des sinistres.}{3}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}les obligations de l'assur\IeC {\'e} en cas de sinistre.\cite {Ref11}}{4}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}L'expertise d'assurance en cas de sinistre.\cite {Ref12}}{4}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}Les obligations de l'assureur en cas de sinistre.}{5}{subsection.1.3.3}% 
+\contentsline {subsection}{\numberline {1.3.4}La facult\IeC {\'e} de r\IeC {\'e}siliation de l'assureur apr\IeC {\`e}s sinistre.}{5}{subsection.1.3.4}% 
+\contentsline {section}{\numberline {1.4}Probl\IeC {\'e}matique.}{6}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Motivation et choix de la m\IeC {\'e}thodologie.}{7}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Motivation.}{7}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}M\IeC {\'e}thode de conduite de projet}{13}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Pourquoi la m\IeC {\'e}thode Agile?}{17}{subsection.1.5.3}% 
+\contentsline {chapter}{\chapternumberline {2}M\IeC {\'e}thodologie, mod\IeC {\`e}les et outils.}{19}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Pr\IeC {\'e}sentation de la M\IeC {\'e}thodologie.}{19}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}M\IeC {\'e}thodologie adopt\IeC {\'e}e Scrum.}{19}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Pr\IeC {\'e}sentation de Scrum.}{20}{subsection.2.1.2}% 
+\contentsline {section}{\numberline {2.2}Mod\IeC {\`e}le.}{22}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Choix du langage de mod\IeC {\'e}lisation.\cite {Ref13}}{23}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}Outils.}{24}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Power AMC.}{24}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}MySQL.}{25}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Odoo.}{26}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Visual Studio Code.}{27}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}PHP.}{28}{subsection.2.3.5}% 
+\contentsline {section}{\numberline {2.4}Architecture logicielle du syst\IeC {\`e}me.}{29}{section.2.4}% 
+\contentsline {chapter}{\chapternumberline {3}Simulation et analyse.}{32}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Simulation.}{32}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Contexte du m\IeC {\'e}moire.}{32}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Travail demand\IeC {\'e}.}{32}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}P\IeC {\'e}rim\IeC {\`e}tre d'\IeC {\'e}tude.}{32}{subsection.3.1.3}% 
+\contentsline {section}{\numberline {3.2}Analyse.}{34}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Travail pr\IeC {\'e}liminaire: Sprint 0.}{34}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Vision du projet.}{34}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Les objectifs.}{34}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}Identification des besoin.}{35}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.5}Les contraintes li\IeC {\'e}es au projet.}{37}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.6}Les risques pouvant entrain\IeC {\'e}s l'\IeC {\'e}chec du projet}{37}{subsection.3.2.6}% 
+\contentsline {subsection}{\numberline {3.2.7}Les ressources humaines}{38}{subsection.3.2.7}% 
+\contentsline {section}{\numberline {3.3}Mod\IeC {\'e}lisation du syst\IeC {\`e}me}{38}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Sprint 1}{41}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Sprint 2}{45}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Sprint 3}{48}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Sprint 4}{51}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.5}Diagramme de composant.}{53}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}Diagramme de d\IeC {\'e}ploiement.}{54}{subsection.3.3.6}% 
+\contentsline {chapter}{\chapternumberline {4}R\IeC {\'e}sultats et interpr\IeC {\'e}tation}{56}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Pr\IeC {\'e}sentation des diff\IeC {\'e}rentes release.}{56}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Premier release.}{56}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Deuxi\IeC {\`e}me release.}{66}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Troisi\IeC {\`e}me release}{68}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}Quatri\IeC {\`e}me release}{71}{subsection.4.1.4}% 
+\contentsline {section}{\numberline {4.2}Estimation de co\IeC {\^u}ts et difficult\IeC {\'e}s rencontr\IeC {\'e}es.}{73}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Estimation des co\IeC {\^u}ts.}{73}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Difficult\IeC {\'e}s rencontr\IeC {\'e}es.}{74}{subsection.4.2.2}% 
+\contentsline {chapter}{Conclusion}{75}{section*.5}% 
+\contentsline {chapter}{Bibliographie}{A}{section*.5}% 
+\contentsline {chapter}{\chapternumberline {A}Table des mati\IeC {\`e}res.}{AA}{chapter.1}% 
+\contentsline {chapter}{Table des mati\IeC {\`e}res}{AA}{chapter.1}% 

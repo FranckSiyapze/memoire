@@ -1,0 +1,97 @@
+ \documentclass[openany,oneside,12pt,a4paper,oldfontcommands]{memoir}
+\input{packages/packages}
+
+
+%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%
+
+
+\setsecnumdepth{subsection}
+
+\setcounter{tocdepth}{3}
+
+\maxsecnumdepth{subsection} % chapters, sections, and subsections are numbered
+
+\maxtocdepth{subsection} % chapters, sections, and subsections are in the Table of Contents
+
+
+\renewcommand{\baselinestretch}{1.5}
+
+\makeatletter
+
+\renewcommand\listoffigures{%
+	\@starttoc{lof}%
+}
+\renewcommand\listoftables{%
+	\@starttoc{lot}%
+}
+
+%\@addtoreset{chapter}{part} %recommencer numérotation des chapitres après chaque partie
+
+\makeatother
+
+%\addto\captionsfrench{\renewcommand*{\chaptername}{KEFALAIO}}
+\renewcommand\cftpartname{Partie }
+
+\renewcommand\cftchaptername{\chaptername~}
+
+\renewcommand\cftappendixname{\appendicname~}
+
+\begin{document}
+
+\frontmatter                    % pages liminaires
+
+\cleardoublepage
+
+\include{rapport/dedicace}
+
+\include{rapport/remerciements}         % remerciements
+
+\include{rapport/sommaire}
+
+\include{rapport/resume}                % résumé français
+
+\include{rapport/abstract}              % résumé anglais
+
+\include{rapport/glossaire}
+
+\include{rapport/liste-tableau-figure}
+
+%\cleardoublepage
+
+%\include{rapport/avantpropos}           % avant-propos
+
+\mainmatter
+
+ 
+%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%
+%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%---%%%                    % corps du document
+\include{rapport/introduction}            % introduction
+
+\include{chapitres/chapitre1}             % chapitre 1
+
+\include{chapitres/chapitre2}	          % chapitre 2  
+    
+\include{chapitres/chapitre3}             % chapitre 3
+
+\include{chapitres/chapitre4}	          % chapitre 4
+
+\include{rapport/conclusion}            % conclusion
+
+\pretocmd{\chapter}{
+	\clearpage
+	\pagenumbering{arabic}
+	%\renewcommand*{\thepage}{\Alph{page}}}{}{}
+	\renewcommand*{\thepage}{\thechapter\Alph{page}}}{}{}
+\renewcommand*{\thepage}{A\arabic{page}}
+
+\appendix                       % annexes le cas échéant
+
+\include{rapport/bibliographie} %fichier de bibliographie
+\include{rapport/table-matiere}
+
+%\include{rapport/webographie} %fichier de webographie
+%\include{rapport/annexe}                      % annexe A
+
+
+
+\end{document}
